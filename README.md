@@ -1,5 +1,5 @@
 # Stock-Charts
-# Reliance Stock Data in Different kinds of Charts
+# Reliance Chart in Different Time Frame for better Analysis
 
 ![_](https://indiaforensic.com/wp-content/uploads/2012/12/Stock-market12.jpg)
 
